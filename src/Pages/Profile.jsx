@@ -1,0 +1,18 @@
+
+
+const Profile = () => {
+    return (
+        <div className=" container mx-auto">
+           <div>
+            <h1> <span>Name:</span>Foridul Isalam</h1>
+            <h1> <span>Phone:</span>01775962514</h1>
+            <h1> <span>Email:</span>foridulislamdise880@gmail.com</h1>
+            <h1> <span>occupation:</span>Web developer</h1>
+            <h1> <span>Name:</span>Foridul Isalam</h1>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquid nemo amet sit commodi placeat, rerum dolorem ut, maxime, quis nostrum iste fuga odit magni! Asperiores pariatur consequuntur repudiandae quae dolorum voluptas doloribus, neque numquam, quidem, accusamus accusantium ipsum! Sit eum voluptates, ducimus adipisci blanditiis possimus consequatur quae nemo tempore, harum dolores sapiente ab ipsam molestiae sed nihil odit vitae reiciendis maxime consequuntur provident? Quisquam placeat nostrum harum ex nulla! Impedit obcaecati nulla, id quas nemo officiis et consequatur placeat, aliquam neque explicabo! Illo dolorum error, officia deleniti eius voluptate ipsum, quae sunt perferendis animi doloremque libero, quas quia nobis deserunt perspiciatis. Id, numquam. Fuga aut, necessitatibus explicabo reiciendis in enim deserunt, doloremque perferendis commodi debitis dolor qui officia eveniet repudiandae magnam dignissimos asperiores! Non consequatur nostrum nobis nisi culpa doloremque, reprehenderit consequuntur aliquid facilis sapiente sed odit adipisci mollitia! Et commodi vero reprehenderit possimus, quo obcaecati iste debitis, consequuntur earum, veritatis autem necessitatibus? Nam blanditiis quibusdam odio dolorum quidem! Dolor dolores sunt magnam aspernatur ullam excepturi unde eius aliquid porro repudiandae asperiores cum adipisci quas distinctio tempore, maiores voluptatem culpa! Consectetur sint possimus laborum, inventore debitis, ex quisquam nobis delectus magni fuga ipsum repellat ullam. Repellendus qui, necessitatibus ea consequuntur obcaecati eos blanditiis animi cum? Explicabo delectus in, illum ipsum, odit, eum eos numquam exercitationem dignissimos accusamus laudantium debitis! Magni fugit quo repudiandae officia recusandae reiciendis harum quaerat, obcaecati nostrum autem quas ullam voluptate est blanditiis nulla, ut a rem aliquid. Natus laudantium nostrum culpa, earum asperiores at et odit molestias cumque omnis incidunt, non voluptatem iure tempore dolores atque consectetur, exercitationem debitis perspiciatis! Tenetur, aut quibusdam facere eos fugiat omnis consectetur provident sint sapiente cumque, ut expedita quidem minus nemo est! Qui quaerat magnam minima animi fuga ea, inventore recusandae alias totam aspernatur nobis modi quis vitae impedit mollitia. Iste reprehenderit quibusdam ut blanditiis quia minus consequatur tempora rem ullam. Itaque ullam voluptatibus ipsa, inventore dolorum suscipit quidem exercitationem aspernatur fugiat sit porro rerum earum ea, velit ab provident, facilis autem fuga aliquid distinctio. Voluptatem eaque necessitatibus et eligendi praesentium illo obcaecati voluptatibus nihil quae earum rem quos sed sequi, nulla, odit provident error tenetur quam. Iste molestias quisquam ducimus. Suscipit ex, qui ea nemo dolorem officiis. Fugit excepturi optio dolorem voluptatem consequatur, commodi animi reprehenderit eligendi ab! Consectetur eius, dignissimos quaerat maxime est nesciunt explicabo assumenda, ipsa corporis saepe dolorum quod beatae? Fuga totam veniam non obcaecati deserunt.</p>
+           </div>
+        </div>
+    );
+};
+
+export default Profile;
